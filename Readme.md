@@ -1,2 +1,0 @@
-IBM Data Science Specialization
-
